@@ -100,3 +100,7 @@ Run daily at 2 AM:
 Kranth
 ## Project URL
 https://github.com/hemasri142/log-archive-tool.git
+## Project Page
+
+You can view the project here:  
+[Log Archive Tool](https://github.com/hemasri142/log-archive-tool)
