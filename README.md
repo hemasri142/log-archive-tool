@@ -1,12 +1,9 @@
-## Project URL
-https://github.com/hemasri142/log-archive-tool
 # 📦 Log Archive Tool (Bash)
 
 ## Project Page
 
 You can view the project here:  
-[Log Archive Tool](https://github.com/hemasri142/log-archive-tool)
-
+[Log Archive Tool](https://github.com/hemasri142/log-archive-tool)  
 ## 📌 Overview
 
 This project is a simple **log archival tool** built using Bash scripting.  
