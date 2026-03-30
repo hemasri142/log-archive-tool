@@ -1,0 +1,11 @@
+# Ignore archives
+archives/
+
+# Ignore logs
+*.log
+
+# Ignore test logs
+logs/
+
+# Ignore temp files
+*.tmp
