@@ -1,3 +1,5 @@
+## Project URL
+https://github.com/hemasri142/log-archive-tool
 # 📦 Log Archive Tool (Bash)
 
 ## Project Page
@@ -39,4 +41,5 @@ It compresses log files, stores them with timestamps, and automates cleanup.
 ### Run the script
 
 ```bash
-./log-archive.sh <log-directory>
+./log-archive.sh <log-directory
+>
